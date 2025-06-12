@@ -1,0 +1,398 @@
+[
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-orderdetail-title-order",
+    "lang_value": {
+      "TH": "ออเดอร์",
+      "EN": "Order"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-orderdetail-title-listitem",
+    "lang_value": {
+      "TH": "รายการสินค้า ({{count}})",
+      "EN": "Item List ({{count}})"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-orderdetail-table-header-productimage",
+    "lang_value": {
+      "TH": "รูปภาพสินค้า",
+      "EN": "Product Image"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-orderdetail-table-header-productname",
+    "lang_value": {
+      "TH": "ชื่อสินค้า/บริการ",
+      "EN": "Product Name"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-orderdetail-table-header-price",
+    "lang_value": {
+      "TH": "ราคา",
+      "EN": "Price"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-orderdetail-table-header-quantity",
+    "lang_value": {
+      "TH": "จำนวน",
+      "EN": "Quantity"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-orderdetail-table-header-totalprice",
+    "lang_value": {
+      "TH": "ราคารวม",
+      "EN": "Total Price"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-orderdetail-title-customerinformation",
+    "lang_value": {
+      "TH": "ข้อมูลลูกค้า",
+      "EN": "Customer information"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-orderdetail-title-paymentmethod",
+    "lang_value": {
+      "TH": "ช่องทางการชำระเงิน",
+      "EN": "Payment Method"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-orderdetail-summary-totalamount",
+    "lang_value": {
+      "TH": "ราคารวม",
+      "EN": "Total Amount"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-orderdetail-summary-discount",
+    "lang_value": {
+      "TH": "ส่วนลด",
+      "EN": "Discount"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-orderdetail-summary-grandtotal",
+    "lang_value": {
+      "TH": "สรุปยอด",
+      "EN": "Grand Total"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-orderdetail-button-printreceipt",
+    "lang_value": {
+      "TH": "พิมพ์ใบเสร็จ",
+      "EN": "Print Receipt"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-orderdetail-menu-save",
+    "lang_value": {
+      "TH": "จัดเก็บออเดอร์",
+      "EN": "Save/Archived  Order"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-orderdetail-menu-cancelorder",
+    "lang_value": {
+      "TH": "ยกเลิกออเดอร์",
+      "EN": "Cancel Order"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-orderdetail-button-checkout",
+    "lang_value": {
+      "TH": "ชำระเงิน",
+      "EN": "Check out"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-orderdetail-title-createsalesorder",
+    "lang_value": {
+      "TH": "สร้างคำสั่งขาย",
+      "EN": "Create Sales Order"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-orderdetail-title-payment",
+    "lang_value": {
+      "TH": "การชำระเงิน",
+      "EN": "Payment"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-orderdetail-title-delivery",
+    "lang_value": {
+      "TH": "การส่งมอบสินค้า",
+      "EN": "Delivery"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-orderdetail-subtitle-cash",
+    "lang_value": {
+      "TH": "เงินสด",
+      "EN": "Cash"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-orderdetail-title-amountreceive",
+    "lang_value": {
+      "TH": "จำนวนเงินที่รับ",
+      "EN": "Amount received"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-orderdetail-title-change",
+    "lang_value": {
+      "TH": "จำนวนที่ต้องทอน",
+      "EN": "Change due"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-orderdetail-subtitle-bank",
+    "lang_value": {
+      "TH": "โอนผ่านธนาคาร",
+      "EN": "Bank transfer"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-orderdetail-subtitle-other",
+    "lang_value": {
+      "TH": "อื่นๆ",
+      "EN": "Other options"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-orderdetail-title-refcode",
+    "lang_value": {
+      "TH": "รหัสอ้างอิง",
+      "EN": "Reference code"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-orderdetail-title-note",
+    "lang_value": {
+      "TH": "หมายเหตุ",
+      "EN": "Note"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-orderdetail-subtitle-credit",
+    "lang_value": {
+      "TH": "บัตรเครดิต",
+      "EN": "Credit card"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-orderdetail-subtitle-debit",
+    "lang_value": {
+      "TH": "บัตรเดบิต",
+      "EN": "Debit card"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-orderdetail-badge-deliverystatus-waitingforpickup",
+    "lang_value": {
+      "TH": "รอส่งมอบ",
+      "EN": "Waiting for pick-up"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-orderdetail-badge-deliverystatus-pickedup",
+    "lang_value": {
+      "TH": "ส่งมอบแล้ว",
+      "EN": "Picked-up"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-orderdetail-modal-payment-title-order",
+    "lang_value": {
+      "TH": "ชำระเงินออเดอร์",
+      "EN": "Order payment"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-orderdetail-modal-payment-button-back",
+    "lang_value": {
+      "TH": "กลับ",
+      "EN": "Back"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-orderdetail-modal-payment-button-confirm",
+    "lang_value": {
+      "TH": "ยืนยัน",
+      "EN": "Confirm"
+    },
+    "tags": [
+      "patona"
+    ]
+  }
+]

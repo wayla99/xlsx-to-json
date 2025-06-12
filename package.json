@@ -1,0 +1,21 @@
+{
+  "name": "xlsx-to-json",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "convert": "node convert.js",
+    "send-data": "node sendDataToApi.js",
+    "get-data": "node getDataFromApi.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.8.4",
+    "dotenv": "^16.4.7",
+    "xlsx": "^0.18.5"
+  }
+}

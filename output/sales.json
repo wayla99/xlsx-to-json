@@ -1,0 +1,758 @@
+[
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-sales-title-sales",
+    "lang_value": {
+      "TH": "คำสั่งขาย",
+      "EN": "Sales"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-sales-description-sales",
+    "lang_value": {
+      "TH": "เลือกสินค้าใส่ตะกร้าเพื่อทำรายการ",
+      "EN": "Select items to \nadd to the cart for processing"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-sales-placeholder-search",
+    "lang_value": {
+      "TH": "ชื่อสินค้า, รหัสสินค้า",
+      "EN": "Product name, product SKU"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-sales-tab-all",
+    "lang_value": {
+      "TH": "ทั้งหมด",
+      "EN": "All"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-sales-tab-pysical",
+    "lang_value": {
+      "TH": "สินค้า",
+      "EN": "Physical Product"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-sales-tab-services",
+    "lang_value": {
+      "TH": "บริการ",
+      "EN": "Services"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-sales-tab-digital",
+    "lang_value": {
+      "TH": "สินค้าดิจิตอล",
+      "EN": "Digital Product"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-sales-title-createorder",
+    "lang_value": {
+      "TH": "สร้างรายการออเดอร์",
+      "EN": "Create order"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-sales-classifier-menu",
+    "lang_value": {
+      "TH": "รายการ",
+      "EN": "items"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-sales-subtitle-totalitems",
+    "lang_value": {
+      "TH": "สินค้าทั้งหมด",
+      "EN": "Total items"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-sales-title-order",
+    "lang_value": {
+      "TH": "ออเดอร์",
+      "EN": "Order"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-sales-title-discount",
+    "lang_value": {
+      "TH": "ส่วนลด",
+      "EN": "Discount"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-sales-tooltip",
+    "lang_value": {
+      "TH": "ระบุได้แค่ตัวเลข 0-9 และจุดทศนิยมเท่านั้น \nสามารถระบุทศนิยมได้สูงสุด 2 ตำแหน่ง \nส่วนลดแบบระบุค่า จำนวนที่ใส่ต้องมากกว่า 0\nส่วนลดแบบเปอร์เซ็นต์ สามารถใส่ได้ตั้งแต่ 1-100",
+      "EN": "Only numbers 0-9 and decimal points can be entered\nUp to 2 decimal places can be specified\nFixed discount, the entered amount must be greater than 0\nPercentage discount, can be entered from 1-100"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-sales-option-percentage",
+    "lang_value": {
+      "TH": "เปอร์เซ็นต์",
+      "EN": "Percentage"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-sales-option-fixed",
+    "lang_value": {
+      "TH": "ระบุจำนวน",
+      "EN": "Fixed discount"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-sales-button-clearcart",
+    "lang_value": {
+      "TH": "ล้างตะกร้า",
+      "EN": "Clear cart"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-sales-button-checkout",
+    "lang_value": {
+      "TH": "ชำระเงิน",
+      "EN": "Check out"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-sales-summary-totalprice",
+    "lang_value": {
+      "TH": "ราคารวม",
+      "EN": "Total"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-sales-summary-discount",
+    "lang_value": {
+      "TH": "ส่วนลด",
+      "EN": "Discount"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-sales-summary-grandtotal",
+    "lang_value": {
+      "TH": "สรุปยอด",
+      "EN": "Grand total"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-sales-subtitle-productsfound",
+    "lang_value": {
+      "TH": "ไม่พบรายการสินค้า",
+      "EN": "No products found"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-sales-placeholder-percentage",
+    "lang_value": {
+      "TH": "ระบุเปอร์เซ็นต์",
+      "EN": "Enter percentage"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-sales-placeholder-fixed",
+    "lang_value": {
+      "TH": "ระบุจำนวน",
+      "EN": "Fixed discount"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-sales-title-cartfound",
+    "lang_value": {
+      "TH": "ไม่มีรายการสินค้าในตะกร้า \nกรุณาเลือกสินค้าเพื่อทำรายการ",
+      "EN": "There are no items in the cart. \nPlease select items to check out"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-sales-modal-add-title-additem",
+    "lang_value": {
+      "TH": "เพิ่มรายการ",
+      "EN": "Add item"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-sales-modal-add-subtitle-reviewitems",
+    "lang_value": {
+      "TH": "ตรวจสอบรายการ",
+      "EN": "Review items"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-sales-modal-add-button-cancel",
+    "lang_value": {
+      "TH": "ยกเลิก",
+      "EN": "Cancel"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-sales-modal-add-button-addcart",
+    "lang_value": {
+      "TH": "เพิ่มลงตะกร้า",
+      "EN": "Add to cart"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-sales-modal-edit-title-edititem",
+    "lang_value": {
+      "TH": "แก้ไขรายการ",
+      "EN": "Edit item"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-sales-modal-edit-subtitle-reviewitems",
+    "lang_value": {
+      "TH": "ตรวจสอบรายการ",
+      "EN": "Review items"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-sales-modal-edit-button-cancel",
+    "lang_value": {
+      "TH": "ยกเลิก",
+      "EN": "Cancel"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-sales-modal-edit-button-updateitem",
+    "lang_value": {
+      "TH": "อัปเดตรายการ",
+      "EN": "Update item"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-sales-modal-remove-title-remove",
+    "lang_value": {
+      "TH": "คุณต้องการนำสินค้าออกจากตะกร้าหรือไม่?",
+      "EN": "Do you want to remove the item from the cart?"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-sales-modal-remove-button-cancel",
+    "lang_value": {
+      "TH": "ยกเลิก",
+      "EN": "Cancel"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-sales-modal-remove-button-remove",
+    "lang_value": {
+      "TH": "นำออก",
+      "EN": "Remove"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-sales-modal-clear-title-clearcart",
+    "lang_value": {
+      "TH": "ล้างตะกร้านี้ออก",
+      "EN": "Clear this cart"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-sales-modal-clear-description-clearcart",
+    "lang_value": {
+      "TH": "การล้างตะกร้า จะไม่สามารถนำรายการ\nสินค้าที่เลือกไว้กลับมาได้",
+      "EN": "Clearing the cart will make it impossible to\nrecover the selected items."
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-sales-modal-clear-button-close",
+    "lang_value": {
+      "TH": "ปิด",
+      "EN": "Close"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-sales-modal-clear-button-clearcart",
+    "lang_value": {
+      "TH": "ล้างตะกร้า",
+      "EN": "Clear cart"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-sales-modal-payment-title-order",
+    "lang_value": {
+      "TH": "ชำระเงินออเดอร์",
+      "EN": "Order payment"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-modal-payment-tab-cash",
+    "lang_value": {
+      "TH": "เงินสด",
+      "EN": "Cash"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-modal-payment-title-amountpaid",
+    "lang_value": {
+      "TH": "จำนวนยอดชำระ",
+      "EN": "Amount to be paid"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-modal-payment-tab-cash-title-amountreceived",
+    "lang_value": {
+      "TH": "จำนวนเงินที่รับ",
+      "EN": "Amount received"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-modal-payment-tab-cash-placeholder-received",
+    "lang_value": {
+      "TH": "ระบุจำนวนเงินที่รับ",
+      "EN": "Enter the amount received"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-modal-payment-tab-cash-summary-amountreceived",
+    "lang_value": {
+      "TH": "จำนวนเงินที่รับ",
+      "EN": "Amount received"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-modal-payment-tab-cash-summary-change",
+    "lang_value": {
+      "TH": "จำนวนที่ต้องทอน",
+      "EN": "Change due"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-sales-modal-payment-button-back",
+    "lang_value": {
+      "TH": "กลับ",
+      "EN": "Back"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-sales-modal-payment-button-confirm",
+    "lang_value": {
+      "TH": "ยืนยัน",
+      "EN": "Confirm"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-modal-payment-tab-cash-error",
+    "lang_value": {
+      "TH": "โปรดระบุตัวเลขใหม่",
+      "EN": "Incorrect format. Please enter a new number"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-modal-payment-tab-bank",
+    "lang_value": {
+      "TH": "โอนผ่านธนาคาร",
+      "EN": "Bank transfer"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-modal-payment-title-awaitingpayment",
+    "lang_value": {
+      "TH": "รอยืนยันการชำระเงิน",
+      "EN": "Awaiting payment confirmation"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-modal-payment-title-refcode",
+    "lang_value": {
+      "TH": "รหัสอ้างอิง",
+      "EN": "Reference code"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-modal-payment-placeholder-refcode",
+    "lang_value": {
+      "TH": "ระบุรหัสอ้างอิง",
+      "EN": "Enter reference code"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-modal-payment-title-note",
+    "lang_value": {
+      "TH": "หมายเหตุ",
+      "EN": "Note"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-modal-payment-placeholder-note",
+    "lang_value": {
+      "TH": "ระบุหมายเหตุ",
+      "EN": "Enter a note"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-modal-payment-error",
+    "lang_value": {
+      "TH": "รูปแบบไม่ถูกต้อง",
+      "EN": "Incorrect format"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-modal-payment-tab-card",
+    "lang_value": {
+      "TH": "จ่ายด้วยบัตร",
+      "EN": "Pay by card"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-modal-payment-tab-card-radio-credit",
+    "lang_value": {
+      "TH": "บัตรเครดิต",
+      "EN": "Credit card"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-modal-payment-tab-card-radio-debit",
+    "lang_value": {
+      "TH": "บัตรเดบิต",
+      "EN": "Debit card"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-modal-payment-tab-other",
+    "lang_value": {
+      "TH": "อื่นๆ",
+      "EN": "Other options"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-sales-modal-success-title-paymentsuccessful",
+    "lang_value": {
+      "TH": "ชำระเงินสำเร็จ",
+      "EN": "Payment successful"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-sales-modal-success-button-back",
+    "lang_value": {
+      "TH": "กลับ",
+      "EN": "Back"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-sales-modal-success-button-printreceipt",
+    "lang_value": {
+      "TH": "พิมพ์ใบเสร็จ",
+      "EN": "Print receipt"
+    },
+    "tags": [
+      "patona"
+    ]
+  }
+]

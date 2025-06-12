@@ -1,0 +1,470 @@
+[
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-myorder-title-myorder",
+    "lang_value": {
+      "TH": "รายการคำสั่งขาย",
+      "EN": "My Order"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-myorder-tab-all",
+    "lang_value": {
+      "TH": "ทั้งหมด",
+      "EN": "All"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-myorder-tab-inprogress",
+    "lang_value": {
+      "TH": "กำลังดำเนินการ",
+      "EN": "In Progress"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-myorder-tab-completed",
+    "lang_value": {
+      "TH": "สำเร็จ",
+      "EN": "Completed"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-myorder-tab-canceled",
+    "lang_value": {
+      "TH": "ยกเลิก",
+      "EN": "Canceled"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-myorder-table-header-salesorder",
+    "lang_value": {
+      "TH": "รายการคำสั่งขาย",
+      "EN": "Sales Order"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-myorder-table-header-customername",
+    "lang_value": {
+      "TH": "ชื่อลูกค้า",
+      "EN": "Customer Name"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-myorder-table-header-saleschannel",
+    "lang_value": {
+      "TH": "ช่องทางการขาย",
+      "EN": "Sales Channel"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-myorder-table-header-totalamount",
+    "lang_value": {
+      "TH": "ยอดรวม",
+      "EN": "Total Amount"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-myorder-table-header-paymentstatus",
+    "lang_value": {
+      "TH": "สถานะชำระเงิน",
+      "EN": "Payment Status"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-myorder-table-header-createddate",
+    "lang_value": {
+      "TH": "วันที่สร้าง",
+      "EN": "Created Date"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-myorder-table-header-orderstatus",
+    "lang_value": {
+      "TH": "สถานะออเดอร์",
+      "EN": "Order Status"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-myorder-subtitle-ordersfound",
+    "lang_value": {
+      "TH": "ไม่พบรายการคำสั่งขาย",
+      "EN": "No sales orders found"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-badge-paymentstatus-paid",
+    "lang_value": {
+      "TH": "ชำระแล้ว",
+      "EN": "Paid"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-badge-paymentstatus-waitingforpayment",
+    "lang_value": {
+      "TH": "รอชำระเงิน",
+      "EN": "Waiting for Payment"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-badge-orderstatus-complete",
+    "lang_value": {
+      "TH": "สำเร็จ",
+      "EN": "Complete"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-badge-orderstatus-inprogress",
+    "lang_value": {
+      "TH": "กำลังดำเนินการ",
+      "EN": "In Progress"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-badge-orderstatus-canceled",
+    "lang_value": {
+      "TH": "ยกเลิก",
+      "EN": "Canceled"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-myorder-table-body-cash",
+    "lang_value": {
+      "TH": "เงินสด",
+      "EN": "Cash"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-myorder-table-body-bank",
+    "lang_value": {
+      "TH": "โอนผ่านธนาคาร",
+      "EN": "Bank transfer"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-myorder-table-body-credit",
+    "lang_value": {
+      "TH": "บัตรเครดิต",
+      "EN": "Credit card"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-myorder-table-body-debit",
+    "lang_value": {
+      "TH": "บัตรเดบิต",
+      "EN": "Debit card"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-myorder-table-body-other",
+    "lang_value": {
+      "TH": "อื่นๆ",
+      "EN": "Other options"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-myorder-table-body-unspecified",
+    "lang_value": {
+      "TH": "ไม่ระบุ",
+      "EN": "Unspecified"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-myorder-placeholder-search",
+    "lang_value": {
+      "TH": "รหัสคำสั่งขาย/ชื่อผู้ซื้อ",
+      "EN": "Order number/Buyer's Name"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-myorder-button-filter",
+    "lang_value": {
+      "TH": "ตัวกรอง",
+      "EN": "Filter"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-myorder-title-daterange",
+    "lang_value": {
+      "TH": "ช่วงวันที่สร้างรายการคำสั่งขาย",
+      "EN": "Order Creation Date Range"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-myorder-placeholder-startdate",
+    "lang_value": {
+      "TH": "วันที่เริ่มต้น",
+      "EN": "Start Date"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-myorder-placeholder-enddate",
+    "lang_value": {
+      "TH": "วันที่สิ้นสุด",
+      "EN": "End Date"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-myorder-title-paymentstatus",
+    "lang_value": {
+      "TH": "สถานะชำระเงิน",
+      "EN": "Payment Status"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-myorder-checkbox-paid",
+    "lang_value": {
+      "TH": "ชำระแล้ว",
+      "EN": "Paid"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-myorder-checkbox-waitingpayment",
+    "lang_value": {
+      "TH": "รอชำระเงิน",
+      "EN": "Waiting for Payment"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-myorder-title-paymentmethod",
+    "lang_value": {
+      "TH": "ช่องทางการชำระเงิน",
+      "EN": "Payment Method"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-myorder-checkbox-cash",
+    "lang_value": {
+      "TH": "เงินสด",
+      "EN": "Cash"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-myorder-checkbox-banktransfer",
+    "lang_value": {
+      "TH": "โอนผ่านธนาคาร",
+      "EN": "Bank transfer"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-myorder-checkbox-card",
+    "lang_value": {
+      "TH": "จ่ายด้วยบัตร",
+      "EN": "Pay by card"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-myorder-checkbox-other",
+    "lang_value": {
+      "TH": "อื่นๆ",
+      "EN": "Other options"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-myorder-button-clearall",
+    "lang_value": {
+      "TH": "ล้างทั้งหมด",
+      "EN": "Clear All"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-myorder-button-apply",
+    "lang_value": {
+      "TH": "นำไปใช้",
+      "EN": "Apply"
+    },
+    "tags": [
+      "patona"
+    ]
+  }
+]
