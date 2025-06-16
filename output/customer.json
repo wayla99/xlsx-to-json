@@ -298,5 +298,29 @@
     "tags": [
       "patona"
     ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-button-addtaxaddress",
+    "lang_value": {
+      "TH": "เพิ่มที่อยู่สำหรับออกใบกำกับภาษี",
+      "EN": "Add Tax Invoice Address"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-notaxaddress",
+    "lang_value": {
+      "TH": "ยังไม่มีที่อยู่สำหรับออกใบกำกับภาษี",
+      "EN": "No Tax Invoice Address Available"
+    },
+    "tags": [
+      "patona"
+    ]
   }
 ]
