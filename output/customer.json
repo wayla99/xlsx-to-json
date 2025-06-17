@@ -74,7 +74,7 @@
   {
     "default_lang": "EN",
     "description": "",
-    "keyword": "patona-sellercenter-customerbook-table-body-menu-edit",
+    "keyword": "patona-sellercenter-customerbook-table-body-menu-editdata",
     "lang_value": {
       "TH": "แก้ไขข้อมูล",
       "EN": "Edit"
@@ -366,6 +366,126 @@
     "lang_value": {
       "TH": "ลบ",
       "EN": "Delete"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-modal-taxinvoice-title-addtax",
+    "lang_value": {
+      "TH": "เพิ่มที่อยู่สำหรับออกใบกำกับภาษี",
+      "EN": "Add Tax Invoice Address"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-modal-taxinvoice-title-edittax",
+    "lang_value": {
+      "TH": "แก้ไขที่อยู่สำหรับออกใบกำกับภาษี",
+      "EN": "Edit Tax Invoice Address"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-table-body-menu-edit",
+    "lang_value": {
+      "TH": "แก้ไข",
+      "EN": "Edit"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-table-body-menu-delete",
+    "lang_value": {
+      "TH": "ลบ",
+      "EN": "Delete"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-addressform-input-label-locality",
+    "lang_value": {
+      "TH": "หมู่บ้าน/ชุมชน",
+      "EN": "Village/Community"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-addressform-input-label-street",
+    "lang_value": {
+      "TH": "ถนน",
+      "EN": "Street"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-addressform-input-placeholder-locality",
+    "lang_value": {
+      "TH": "ระบุหมู่บ้าน/ชุมชน",
+      "EN": "Enter Village/Community"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-addressform-input-placeholder-street",
+    "lang_value": {
+      "TH": "ระบุถนน",
+      "EN": "Enter Street"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-addressform-input-label-addressnumber",
+    "lang_value": {
+      "TH": "เลขที่",
+      "EN": "Address Number"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-addressform-input-placeholder-addressnumber",
+    "lang_value": {
+      "TH": "ระบุเลขที่",
+      "EN": "Enter Address Number"
     },
     "tags": [
       "patona"
