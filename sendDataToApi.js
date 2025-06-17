@@ -13,20 +13,22 @@ async function sendDataToApi(filePath) {
     "Content-Type": "application/json",
   };
 
-  try {
+  
     const jsonData = JSON.parse(fs.readFileSync(filePath, "utf-8"));
 
     for (const item of jsonData) {
-      const response = await axios.post(url, item, { headers });
-      console.log(
-        `✅ status : ${response.status}, success keyword: ${item.keyword}`
-      );
+      try {
+        const response = await axios.post(url, item, { headers });
+        console.log(
+          `✅ status : ${response.status}, success keyword: ${item.keyword}`
+        );
+      } catch (error) {
+        console.log(`❌ error on keyword: ${item.keyword}`, error.response ? error.response.data.error : error.message);
+      }
 
       await new Promise((resolve) => setTimeout(resolve, 500));
     }
-  } catch (error) {
-    console.error("❌ error:", error.message);
-  }
+  
 }
 
 const files = process.argv.slice(2);
