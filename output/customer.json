@@ -322,5 +322,53 @@
     "tags": [
       "patona"
     ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-button-cancel",
+    "lang_value": {
+      "TH": "ยกเลิก",
+      "EN": "Cancel"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-button-save",
+    "lang_value": {
+      "TH": "บันทึก",
+      "EN": "Save"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-button-leave",
+    "lang_value": {
+      "TH": "ออก",
+      "EN": "Leave"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-button-delete",
+    "lang_value": {
+      "TH": "ลบ",
+      "EN": "Delete"
+    },
+    "tags": [
+      "patona"
+    ]
   }
 ]
