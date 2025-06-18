@@ -1,0 +1,206 @@
+[
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-store-create-title-storeheader",
+    "lang_value": {
+      "TH": "สร้างร้านค้า",
+      "EN": "Create Store"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-store-create-title-storeheader-address",
+    "lang_value": {
+      "TH": "ที่อยู่ที่กรอกในหน้านี้จะถูกใช้เป็นที่อยู่สำหรับการจัดส่งสินค้า",
+      "EN": "The address entered here will be used for shipping"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-store-create-title-storeheader-next",
+    "lang_value": {
+      "TH": "เริ่มใช้งาน Patona ได้เลย",
+      "EN": "Start using Patona"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-store-create-input-label-storename",
+    "lang_value": {
+      "TH": "ชื่อร้านค้า",
+      "EN": "Store Name"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-store-create-input-placeholder-storename",
+    "lang_value": {
+      "TH": "ระบุชื่อร้านค้า",
+      "EN": "Enter Store Name"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-store-create-input-checkbox-information",
+    "lang_value": {
+      "TH": "ใช้ข้อมูลเดียวกับบริษัท",
+      "EN": "Use company information"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-store-create-input-label-branchcode",
+    "lang_value": {
+      "TH": "รหัสสาขา",
+      "EN": "Branch Code"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-store-create-input-placeholder-branchcode",
+    "lang_value": {
+      "TH": "ระบุรหัสสาขา",
+      "EN": "Enter Branch Code"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-store-create-input-label-phone",
+    "lang_value": {
+      "TH": "เบอร์โทรหลัก",
+      "EN": "Primary Phone Number"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-store-create-input-placeholder-phone",
+    "lang_value": {
+      "TH": "ระบุเบอร์โทรหลัก",
+      "EN": "Enter Primary Phone Number"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-store-create-input-label-subphone",
+    "lang_value": {
+      "TH": "เบอร์โทรสำรอง",
+      "EN": "Secondary Phone Number"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-store-create-input-placeholder-subphone",
+    "lang_value": {
+      "TH": "ระบุเบอร์โทรสำรอง",
+      "EN": "Enter Secondary Phone Number"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-store-create-button-start",
+    "lang_value": {
+      "TH": "เริ่มใช้งาน",
+      "EN": "Start"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-store-create-button-cancel",
+    "lang_value": {
+      "TH": "ยกเลิก",
+      "EN": "Cancel"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-store-create-tooltip-branchcode",
+    "lang_value": {
+      "TH": "รหัสสาขาที่กรอกจะไปปรากฏที่ใบเสร็จ เช่น 00001",
+      "EN": "The branch code you enter will appear on the receipt, ex. 00001"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-store-create-toast-successfully",
+    "lang_value": {
+      "TH": "เพิ่มสาขาใหม่สำเร็จ",
+      "EN": "New Store added successfully"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-store-create-toast-tryagain",
+    "lang_value": {
+      "TH": "เกิดข้อผิดพลาดกรุณาลองใหม่อีกครั้ง",
+      "EN": "An error occurred, please try again"
+    },
+    "tags": [
+      "patona"
+    ]
+  }
+]

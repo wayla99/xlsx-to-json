@@ -1,0 +1,302 @@
+[
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-company-create-title-companyheader",
+    "lang_value": {
+      "TH": "สร้างบริษัท",
+      "EN": "Create Company"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-company-create-title-companyheader-address",
+    "lang_value": {
+      "TH": "ที่อยู่ที่กรอกในหน้านี้จะถูกใช้เป็นที่อยู่ในการออกใบเสร็จ",
+      "EN": "The address entered here will be used for invoicing"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-company-header-next",
+    "lang_value": {
+      "TH": "ต่อไป :",
+      "EN": "Next :"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-company-create-title-companyheader-next",
+    "lang_value": {
+      "TH": "ยอมรับเงื่อนไขการให้บริการ",
+      "EN": "Accept Terms of Service"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-company-create-input-icon-company",
+    "lang_value": {
+      "TH": "อัปโหลดโลโก้บริษัท",
+      "EN": "Upload Company Logo"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-company-create-input-description-company",
+    "lang_value": {
+      "TH": "ขนาดไฟล์ไม่เกิน 1MB รองรับไฟล์ JPG, PNG",
+      "EN": "File size must not exceed 1MB. JPG, PNG only"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-company-create-input-label-companyname",
+    "lang_value": {
+      "TH": "ชื่อบริษัท",
+      "EN": "Company Name"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-company-create-input-placeholder-company",
+    "lang_value": {
+      "TH": "ระบุชื่อบริษัท",
+      "EN": "Enter Company Name"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-company-create-input-label-tax",
+    "lang_value": {
+      "TH": "เลขประจำตัวผู้เสียภาษี",
+      "EN": "Tax Identification"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-company-create-input-placeholder-tax",
+    "lang_value": {
+      "TH": "ระบุเลขประจำตัวผู้เสียภาษี",
+      "EN": "Enter Tax ID"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-company-create-input-label-email",
+    "lang_value": {
+      "TH": "อีเมลบริษัท",
+      "EN": "Company Email"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-company-create-input-placeholder-email",
+    "lang_value": {
+      "TH": "ระบุอีเมลบริษัท",
+      "EN": "Enter Company Email"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-company-create-input-label-phone",
+    "lang_value": {
+      "TH": "เบอร์โทรหลัก",
+      "EN": "Primary Phone Number"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-company-create-input-placeholder-phone",
+    "lang_value": {
+      "TH": "ระบุเบอร์โทรหลัก",
+      "EN": "Enter Primary Phone Number"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-company-create-input-label-subphone",
+    "lang_value": {
+      "TH": "เบอร์โทรสำรอง",
+      "EN": "Secondary Phone Number"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-company-create-input-placeholder-subphone",
+    "lang_value": {
+      "TH": "ระบุเบอร์โทรสำรอง",
+      "EN": "Enter Secondary Phone Number"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-company-button-next",
+    "lang_value": {
+      "TH": "ถัดไป",
+      "EN": "Next"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-company-button-cancel",
+    "lang_value": {
+      "TH": "ยกเลิก",
+      "EN": "Cancel"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-company-create-next-title-description",
+    "lang_value": {
+      "TH": "ยอมรับ Term of Service และ สร้างร้านค้า/สาขา",
+      "EN": "Accept the Term of Service and Create Store/Branch"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-company-create-next-title-next",
+    "lang_value": {
+      "TH": "สร้างร้านค้า/สาขา",
+      "EN": "Create Store/Branch"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-company-create-toast-successfully",
+    "lang_value": {
+      "TH": "เพิ่มบริษัทใหม่สำเร็จ",
+      "EN": "New company added successfully"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-company-create-toast-tryagain",
+    "lang_value": {
+      "TH": "เกิดข้อผิดพลาดกรุณาลองใหม่อีกครั้ง",
+      "EN": "An error occurred, please try again"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-company-create-toast-switched",
+    "lang_value": {
+      "TH": "สลับร้านค้าแล้ว",
+      "EN": "Store has been switched"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-company-button-back",
+    "lang_value": {
+      "TH": "กลับ",
+      "EN": "Back"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-company-create-input-error-taxid",
+    "lang_value": {
+      "TH": "กรุณาระบุเลขประจำตัวผู้เสียภาษีให้ถูกต้อง",
+      "EN": "Please enter a valid Tax ID"
+    },
+    "tags": [
+      "patona"
+    ]
+  }
+]

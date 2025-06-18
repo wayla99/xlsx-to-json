@@ -778,5 +778,305 @@
     "tags": [
       "patona"
     ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-toast-editcustomer-success",
+    "lang_value": {
+      "TH": "แก้ไขข้อมูลลูกค้าสำเร็จ",
+      "EN": "Customer information updated successfully."
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-toast-addcustomer-success",
+    "lang_value": {
+      "TH": "เพิ่มลูกค้าสำเร็จ",
+      "EN": "Customer added successfully."
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-toast-duplicatecustomer",
+    "lang_value": {
+      "TH": "ชื่อ, นามสกุล และเบอร์โทรศัพท์ซ้ำกับที่มีอยู่ในระบบ กรุณาตรวจสอบอีกครั้ง",
+      "EN": "First name, last name, and phone number already exist. Please review"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-toast-unablesave",
+    "lang_value": {
+      "TH": "ไม่สามารถบันทึกข้อมูลได้ กรุณาลองใหม่อีกครั้ง",
+      "EN": "Unable to save data. Please try again."
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-toast-editshipping-fail",
+    "lang_value": {
+      "TH": "แก้ไขที่อยู่สำหรับจัดส่งสินค้าไม่สำเร็จ กรุณาลองอีกครั้ง",
+      "EN": "Failed to update shipping address. Please try again."
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-toast-addshipping-success",
+    "lang_value": {
+      "TH": "เพิ่มที่อยู่สำหรับจัดส่งสินค้าสำเร็จ",
+      "EN": "Shipping address added successfully."
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-toast-editshipping-success",
+    "lang_value": {
+      "TH": "แก้ไขที่อยู่สำหรับจัดส่งสินค้าสำเร็จ",
+      "EN": "Shipping address updated successfully."
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-toast-deleteshipping-success",
+    "lang_value": {
+      "TH": "ลบที่อยู่สำหรับจัดส่งสินค้าสำเร็จ",
+      "EN": "Shipping address deleted successfully"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-toast-deleteshipping-fail",
+    "lang_value": {
+      "TH": "ไม่สามารถลบที่อยู่สำหรับจัดส่งสินค้าได้ กรุณาลองใหม่อีกครั้ง",
+      "EN": "Unable to delete the shipping address. Please try again."
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-toast-addtaxaddress-fail",
+    "lang_value": {
+      "TH": "เพิ่มที่อยู่สำหรับออกใบกำกับภาษีไม่สำเร็จ กรุณาลองใหม่อีกครั้ง",
+      "EN": "Failed to add tax invoice address. Please try again."
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-toast-addtaxaddress-success",
+    "lang_value": {
+      "TH": "เพิ่มที่อยู่สำหรับออกใบกำกับภาษีสำเร็จ",
+      "EN": "Tax invoice address added successfully."
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-toast-edittaxaddress-success",
+    "lang_value": {
+      "TH": "แก้ไขที่อยู่สำหรับออกใบกำกับภาษีสำเร็จ",
+      "EN": "Tax invoice address updated successfully."
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-toast-edittaxaddress-fail",
+    "lang_value": {
+      "TH": "แก้ไขที่อยู่สำหรับออกใบกำกับภาษีไม่สำเร็จ กรุณาลองใหม่อีกครั้ง",
+      "EN": "Failed to update tax invoice address. Please try again."
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-toast-deletetaxaddress-success",
+    "lang_value": {
+      "TH": "ลบที่อยู่สำหรับออกใบกำกับภาษีสำเร็จ",
+      "EN": "Tax invoice address deleted successfully"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-toast-deletetaxaddress-fail",
+    "lang_value": {
+      "TH": "ไม่สามารถลบที่อยู่สำหรับออกใบกำกับภาษีได้ กรุณาลองใหม่อีกครั้ง",
+      "EN": "Unable to delete tax invoice address. Please try again"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-shippingaddress-table-header-fullname",
+    "lang_value": {
+      "TH": "ชื่อ-นามสกุล",
+      "EN": "Full Name"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-shippingaddress-table-header-phone",
+    "lang_value": {
+      "TH": "เบอร์โทร",
+      "EN": "Phone Number"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-shippingaddress-table-header-address",
+    "lang_value": {
+      "TH": "ที่อยู่",
+      "EN": "Address"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-shippingaddress-table-header-primaryaddress",
+    "lang_value": {
+      "TH": "ที่อยู่หลัก",
+      "EN": "Primary Address"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-taxaddress-table-header-type",
+    "lang_value": {
+      "TH": "ประเภท",
+      "EN": "Type"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-taxaddress-table-header-name",
+    "lang_value": {
+      "TH": "ชื่อ",
+      "EN": "Name"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-taxaddress-table-header-taxid",
+    "lang_value": {
+      "TH": "เลขประจำตัวผู้เสียภาษี",
+      "EN": "Tax ID Number"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-taxaddress-table-header-email",
+    "lang_value": {
+      "TH": "อีเมล",
+      "EN": "Email"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-taxaddress-table-header-address",
+    "lang_value": {
+      "TH": "ที่อยู่",
+      "EN": "Address"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-edit-title-editcustomer",
+    "lang_value": {
+      "TH": "แก้ไขข้อมูลลูกค้า",
+      "EN": "Edit Customer Information"
+    },
+    "tags": [
+      "patona"
+    ]
   }
 ]

@@ -1,0 +1,98 @@
+[
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-topbar-option-account",
+    "lang_value": {
+      "TH": "บัญชี",
+      "EN": "Account"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-topbar-option-accountsettings",
+    "lang_value": {
+      "TH": "ตั้งค่าบัญชี",
+      "EN": "Account Settings"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-topbar-option-help",
+    "lang_value": {
+      "TH": "ช่วยเหลือ",
+      "EN": "Help"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-topbar-option-logout",
+    "lang_value": {
+      "TH": "ออกจากระบบ",
+      "EN": "Log Out"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-topbar-option-language",
+    "lang_value": {
+      "TH": "ภาษา",
+      "EN": "Language"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-topbar-option-settings",
+    "lang_value": {
+      "TH": "ตั้งค่า",
+      "EN": "Settings"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-sidebar-radio-addnewstore",
+    "lang_value": {
+      "TH": "เพิ่มร้านค้าใหม่",
+      "EN": "Add New Store"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-sidebar-radio-storesettings",
+    "lang_value": {
+      "TH": "ตั้งค่าร้านค้า",
+      "EN": "Store Settings"
+    },
+    "tags": [
+      "patona"
+    ]
+  }
+]
