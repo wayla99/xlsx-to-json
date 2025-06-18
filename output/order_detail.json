@@ -245,7 +245,7 @@
     "keyword": "patona-sellercenter-orderdetail-title-amountreceive",
     "lang_value": {
       "TH": "จำนวนเงินที่รับ",
-      "EN": "Amount received"
+      "EN": "Amount Received"
     },
     "tags": [
       "patona"
@@ -257,7 +257,7 @@
     "keyword": "patona-sellercenter-orderdetail-title-change",
     "lang_value": {
       "TH": "จำนวนที่ต้องทอน",
-      "EN": "Change due"
+      "EN": "Change Due"
     },
     "tags": [
       "patona"
@@ -390,6 +390,162 @@
     "lang_value": {
       "TH": "ยืนยัน",
       "EN": "Confirm"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-orderdetail-modal-deliver-title-confirmation",
+    "lang_value": {
+      "TH": "ยืนยันการส่งมอบ",
+      "EN": "Confirm Delivery"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-orderdetail-button-deliver",
+    "lang_value": {
+      "TH": "ส่งมอบ",
+      "EN": "Deliver"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-orderdetail-toast-deliver-success",
+    "lang_value": {
+      "TH": "ส่งมอบสินค้าสำเร็จ",
+      "EN": "Delivery successful"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-orderdetail-toast-deliver-fail",
+    "lang_value": {
+      "TH": "ส่งมอบสินค้าไม่สำเร็จ",
+      "EN": "Failed to deliver product"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-orderdetail-modal-cancel-title-confirmation",
+    "lang_value": {
+      "TH": "ยกเลิกออเดอร์",
+      "EN": "Cancel Order"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-orderdetail-modal-cancel-body-confirmation",
+    "lang_value": {
+      "TH": "คุณต้องการยกเลิกออเดอร์ ใช่หรือไม่",
+      "EN": "Are you sure you want to cancel the order?"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-orderdetail-modal-button-confirm",
+    "lang_value": {
+      "TH": "ตกลง",
+      "EN": "Confirm"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-orderdetail-modal-button-cancel",
+    "lang_value": {
+      "TH": "ยกเลิก",
+      "EN": "Cancel"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-orderdetail-toast-canceled-success",
+    "lang_value": {
+      "TH": "ยกเลิกออเดอร์สำเร็จ",
+      "EN": "Order cancellation successful"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-orderdetail-toast-canceled-fail",
+    "lang_value": {
+      "TH": "ยกเลิกออเดอร์ไม่สำเร็จ",
+      "EN": "Failed to cancel order"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-orderdetail-title-refund",
+    "lang_value": {
+      "TH": "การคืนเงิน",
+      "EN": "Refund"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-badge-paymentstatus-refunded",
+    "lang_value": {
+      "TH": "คืนเงินแล้ว",
+      "EN": "Refunded"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-orderdetail-badge-deliverystatus-canceled",
+    "lang_value": {
+      "TH": "ยกเลิก",
+      "EN": "Canceled"
     },
     "tags": [
       "patona"

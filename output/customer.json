@@ -1,0 +1,1082 @@
+[
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-title-customerbook",
+    "lang_value": {
+      "TH": "สมุดรายชื่อลูกค้า",
+      "EN": "Customer book"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-table-header-customername",
+    "lang_value": {
+      "TH": "ชื่อลูกค้า",
+      "EN": "Customer Name"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-table-header-phone",
+    "lang_value": {
+      "TH": "เบอร์โทร",
+      "EN": "Phone Number"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-table-header-totalorder",
+    "lang_value": {
+      "TH": "คำสั่งขายทั้งหมด",
+      "EN": "Total Orders"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-table-header-latestorder",
+    "lang_value": {
+      "TH": "คำสั่งขายล่าสุด",
+      "EN": "Recent Order"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-table-body-menu-view",
+    "lang_value": {
+      "TH": "ดูรายละเอียด",
+      "EN": "View"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-table-body-menu-editdata",
+    "lang_value": {
+      "TH": "แก้ไขข้อมูล",
+      "EN": "Edit"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-button-addcustomer",
+    "lang_value": {
+      "TH": "เพิ่มลูกค้า",
+      "EN": "Add customer"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-placeholder-search",
+    "lang_value": {
+      "TH": "ชื่อหรือเบอร์โทร",
+      "EN": "Name or Phone Number"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-taxaddress",
+    "lang_value": {
+      "TH": "ที่อยู่สำหรับออกใบกำกับภาษี",
+      "EN": "Tax Invoice Address"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-add-title-addcustomer",
+    "lang_value": {
+      "TH": "เพิ่มลูกค้า",
+      "EN": "Add customer"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-add-title-information",
+    "lang_value": {
+      "TH": "ข้อมูลพื้นฐาน",
+      "EN": "Customer information"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-add-label-name",
+    "lang_value": {
+      "TH": "ชื่อ",
+      "EN": "First Name"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-add-placeholder-name",
+    "lang_value": {
+      "TH": "ระบุชื่อ",
+      "EN": "Enter First Name"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-add-label-lastname",
+    "lang_value": {
+      "TH": "นามสกุล",
+      "EN": "Last Name"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-add-placeholder-lastname",
+    "lang_value": {
+      "TH": "ระบุนามสกุล",
+      "EN": "Enter Last Name"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-add-label-phone",
+    "lang_value": {
+      "TH": "เบอร์โทรศัพท์",
+      "EN": "Phone Number"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-add-placeholder-phone",
+    "lang_value": {
+      "TH": "ระบุเบอร์โทรศัพท์",
+      "EN": "Enter Phone Number"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-add-label-email",
+    "lang_value": {
+      "TH": "อีเมล (Optional)",
+      "EN": "Email (Optional)"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-add-placeholder-email",
+    "lang_value": {
+      "TH": "ระบุอีเมล",
+      "EN": "Enter Email"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-shippingaddress",
+    "lang_value": {
+      "TH": "ที่อยู่สำหรับจัดส่งสินค้า",
+      "EN": "Shipping Address"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-noshippingaddress",
+    "lang_value": {
+      "TH": "ยังไม่มีที่อยู่สำหรับจัดส่งสินค้า",
+      "EN": "No Shipping Address Available"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-button-addshippingaddress",
+    "lang_value": {
+      "TH": "เพิ่มที่อยู่สำหรับจัดส่งสินค้า",
+      "EN": "Add Shipping Address"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-modal-shipping-title-addshipping",
+    "lang_value": {
+      "TH": "เพิ่มที่อยู่สำหรับจัดส่งสินค้า",
+      "EN": "Add Shipping Address"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-modal-shipping-title-editshipping",
+    "lang_value": {
+      "TH": "แก้ไขที่อยู่สำหรับจัดส่งสินค้า",
+      "EN": "Edit Shipping Address"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-button-addtaxaddress",
+    "lang_value": {
+      "TH": "เพิ่มที่อยู่สำหรับออกใบกำกับภาษี",
+      "EN": "Add Tax Invoice Address"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-modal-tax-title-addtax",
+    "lang_value": {
+      "TH": "เพิ่มที่อยู่สำหรับออกใบกำกับภาษี",
+      "EN": "Add Tax Invoice Address"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-modal-tax-title-edittax",
+    "lang_value": {
+      "TH": "แก้ไขที่อยู่สำหรับออกใบกำกับภาษี",
+      "EN": "Edit Tax Invoice Address"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-notaxaddress",
+    "lang_value": {
+      "TH": "ยังไม่มีที่อยู่สำหรับออกใบกำกับภาษี",
+      "EN": "No Tax Invoice Address Available"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-button-cancel",
+    "lang_value": {
+      "TH": "ยกเลิก",
+      "EN": "Cancel"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-button-save",
+    "lang_value": {
+      "TH": "บันทึก",
+      "EN": "Save"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-button-leave",
+    "lang_value": {
+      "TH": "ออก",
+      "EN": "Leave"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-button-delete",
+    "lang_value": {
+      "TH": "ลบ",
+      "EN": "Delete"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-table-body-menu-edit",
+    "lang_value": {
+      "TH": "แก้ไข",
+      "EN": "Edit"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-table-body-menu-delete",
+    "lang_value": {
+      "TH": "ลบ",
+      "EN": "Delete"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-detail-badge-customerdetail",
+    "lang_value": {
+      "TH": "รายละเอียดลูกค้า",
+      "EN": "Customer Details"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-detail-customersince",
+    "lang_value": {
+      "TH": "เป็นลูกค้าตั้งแต่",
+      "EN": "Customer since"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-detail-tab-saleshistory",
+    "lang_value": {
+      "TH": "ประวัติการขาย",
+      "EN": "Sales History"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-detail-tab-shippingaddress",
+    "lang_value": {
+      "TH": "ที่อยู่สำหรับจัดส่งสินค้า",
+      "EN": "Shipping Address"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-detail-tab-taxaddress",
+    "lang_value": {
+      "TH": "ที่อยู่สำหรับออกใบกำกับภาษี",
+      "EN": "Tax Invoice Address"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-modal-shipping-label-fullname",
+    "lang_value": {
+      "TH": "ชื่อ–นามสกุล",
+      "EN": "Full Name"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-modal-shipping-placeholder-fullname",
+    "lang_value": {
+      "TH": "ระบุชื่อ–นามสกุล",
+      "EN": "Enter Full Name"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-modal-shipping-label-phone",
+    "lang_value": {
+      "TH": "เบอร์โทรศัพท์",
+      "EN": "Phone Number"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-modal-shipping-placeholder-phone",
+    "lang_value": {
+      "TH": "ระบุเบอร์โทรศัพท์",
+      "EN": "Enter Phone Number"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-modal-taxinvoice-radio-individual",
+    "lang_value": {
+      "TH": "บุคคลธรรมดา",
+      "EN": "Individual"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-modal-taxinvoice-radio-corporateentity",
+    "lang_value": {
+      "TH": "นิติบุคคล",
+      "EN": "Corporate Entity"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-modal-taxinvoice-label-fullname",
+    "lang_value": {
+      "TH": "ชื่อ–นามสกุล",
+      "EN": "Full Name"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-modal-taxinvoice-placeholder-fullname",
+    "lang_value": {
+      "TH": "ระบุชื่อ–นามสกุล",
+      "EN": "Enter Full Name"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-modal-taxinvoice-label-taxid",
+    "lang_value": {
+      "TH": "เลขประจำตัวผู้เสียภาษี",
+      "EN": "Tax Identification"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-modal-taxinvoice-placeholder-taxid",
+    "lang_value": {
+      "TH": "ระบุเลขประจำตัวผู้เสียภาษี",
+      "EN": "Enter Tax ID"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-modal-taxinvoice-label-phone",
+    "lang_value": {
+      "TH": "เบอร์โทรศัพท์",
+      "EN": "Phone Number"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-modal-taxinvoice-placeholder-phone",
+    "lang_value": {
+      "TH": "ระบุเบอร์โทรศัพท์",
+      "EN": "Enter Phone Number"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-modal-taxinvoice-label-email",
+    "lang_value": {
+      "TH": "อีเมล",
+      "EN": "Email"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-modal-taxinvoice-placeholder-email",
+    "lang_value": {
+      "TH": "ระบุอีเมล",
+      "EN": "Enter Email"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-modal-taxinvoice-label-companyname",
+    "lang_value": {
+      "TH": "ชื่อบริษัท",
+      "EN": "Company Name"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-modal-taxinvoice-placeholder-companyname",
+    "lang_value": {
+      "TH": "ระบุชื่อบริษัท",
+      "EN": "Enter Company Name"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-modal-taxinvoice-label-branchcode",
+    "lang_value": {
+      "TH": "รหัสสาขา/เลขที่สาขา",
+      "EN": "Branch Code / Branch Number"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-modal-taxinvoice-placeholder-branchcode",
+    "lang_value": {
+      "TH": "ระบุรหัสสาขา/เลขที่สาขา",
+      "EN": "Enter Branch Code / Branch Number"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-modal-deletetax-title",
+    "lang_value": {
+      "TH": "ลบที่อยู่",
+      "EN": "Delete Address"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-modal-deletetax-body",
+    "lang_value": {
+      "TH": "คุณต้องการลบที่อยู่นี้ ใช่หรือไม่",
+      "EN": "Do you want to delete this address?"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-modal-deleteshipping-title",
+    "lang_value": {
+      "TH": "ลบที่อยู่สำหรับจัดส่งสินค้า",
+      "EN": "Delete shipping address"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-modal-deleteshipping-body",
+    "lang_value": {
+      "TH": "คุณต้องการลบที่อยู่สำหรับจัดส่งสินค้านี้ ใช่หรือไม่",
+      "EN": "Do you want to delete this shipping address?"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-modal-unsaved-title",
+    "lang_value": {
+      "TH": "คุณยังไม่ได้บันทึกข้อมูล",
+      "EN": "You haven’t saved your data yet"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-modal-unsaved-body-warning",
+    "lang_value": {
+      "TH": "คุณไม่ได้ทำการบันทึกข้อมูล",
+      "EN": "You have not saved the data"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-modal-unsaved-body-confirm",
+    "lang_value": {
+      "TH": "ต้องการออกจากหน้านี้หรือไม่?",
+      "EN": "Do you want to leave this page?"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-toast-editcustomer-success",
+    "lang_value": {
+      "TH": "แก้ไขข้อมูลลูกค้าสำเร็จ",
+      "EN": "Customer information updated successfully."
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-toast-addcustomer-success",
+    "lang_value": {
+      "TH": "เพิ่มลูกค้าสำเร็จ",
+      "EN": "Customer added successfully."
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-toast-duplicatecustomer",
+    "lang_value": {
+      "TH": "ชื่อ, นามสกุล และเบอร์โทรศัพท์ซ้ำกับที่มีอยู่ในระบบ กรุณาตรวจสอบอีกครั้ง",
+      "EN": "First name, last name, and phone number already exist. Please review"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-toast-unablesave",
+    "lang_value": {
+      "TH": "ไม่สามารถบันทึกข้อมูลได้ กรุณาลองใหม่อีกครั้ง",
+      "EN": "Unable to save data. Please try again."
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-toast-editshipping-fail",
+    "lang_value": {
+      "TH": "แก้ไขที่อยู่สำหรับจัดส่งสินค้าไม่สำเร็จ กรุณาลองอีกครั้ง",
+      "EN": "Failed to update shipping address. Please try again."
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-toast-addshipping-success",
+    "lang_value": {
+      "TH": "เพิ่มที่อยู่สำหรับจัดส่งสินค้าสำเร็จ",
+      "EN": "Shipping address added successfully."
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-toast-editshipping-success",
+    "lang_value": {
+      "TH": "แก้ไขที่อยู่สำหรับจัดส่งสินค้าสำเร็จ",
+      "EN": "Shipping address updated successfully."
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-toast-deleteshipping-success",
+    "lang_value": {
+      "TH": "ลบที่อยู่สำหรับจัดส่งสินค้าสำเร็จ",
+      "EN": "Shipping address deleted successfully"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-toast-deleteshipping-fail",
+    "lang_value": {
+      "TH": "ไม่สามารถลบที่อยู่สำหรับจัดส่งสินค้าได้ กรุณาลองใหม่อีกครั้ง",
+      "EN": "Unable to delete the shipping address. Please try again."
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-toast-addtaxaddress-fail",
+    "lang_value": {
+      "TH": "เพิ่มที่อยู่สำหรับออกใบกำกับภาษีไม่สำเร็จ กรุณาลองใหม่อีกครั้ง",
+      "EN": "Failed to add tax invoice address. Please try again."
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-toast-addtaxaddress-success",
+    "lang_value": {
+      "TH": "เพิ่มที่อยู่สำหรับออกใบกำกับภาษีสำเร็จ",
+      "EN": "Tax invoice address added successfully."
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-toast-edittaxaddress-success",
+    "lang_value": {
+      "TH": "แก้ไขที่อยู่สำหรับออกใบกำกับภาษีสำเร็จ",
+      "EN": "Tax invoice address updated successfully."
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-toast-edittaxaddress-fail",
+    "lang_value": {
+      "TH": "แก้ไขที่อยู่สำหรับออกใบกำกับภาษีไม่สำเร็จ กรุณาลองใหม่อีกครั้ง",
+      "EN": "Failed to update tax invoice address. Please try again."
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-toast-deletetaxaddress-success",
+    "lang_value": {
+      "TH": "ลบที่อยู่สำหรับออกใบกำกับภาษีสำเร็จ",
+      "EN": "Tax invoice address deleted successfully"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-toast-deletetaxaddress-fail",
+    "lang_value": {
+      "TH": "ไม่สามารถลบที่อยู่สำหรับออกใบกำกับภาษีได้ กรุณาลองใหม่อีกครั้ง",
+      "EN": "Unable to delete tax invoice address. Please try again"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-shippingaddress-table-header-fullname",
+    "lang_value": {
+      "TH": "ชื่อ-นามสกุล",
+      "EN": "Full Name"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-shippingaddress-table-header-phone",
+    "lang_value": {
+      "TH": "เบอร์โทร",
+      "EN": "Phone Number"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-shippingaddress-table-header-address",
+    "lang_value": {
+      "TH": "ที่อยู่",
+      "EN": "Address"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-shippingaddress-table-header-primaryaddress",
+    "lang_value": {
+      "TH": "ที่อยู่หลัก",
+      "EN": "Primary Address"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-taxaddress-table-header-type",
+    "lang_value": {
+      "TH": "ประเภท",
+      "EN": "Type"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-taxaddress-table-header-name",
+    "lang_value": {
+      "TH": "ชื่อ",
+      "EN": "Name"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-taxaddress-table-header-taxid",
+    "lang_value": {
+      "TH": "เลขประจำตัวผู้เสียภาษี",
+      "EN": "Tax ID Number"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-taxaddress-table-header-email",
+    "lang_value": {
+      "TH": "อีเมล",
+      "EN": "Email"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-taxaddress-table-header-address",
+    "lang_value": {
+      "TH": "ที่อยู่",
+      "EN": "Address"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-customerbook-edit-title-editcustomer",
+    "lang_value": {
+      "TH": "แก้ไขข้อมูลลูกค้า",
+      "EN": "Edit Customer Information"
+    },
+    "tags": [
+      "patona"
+    ]
+  }
+]

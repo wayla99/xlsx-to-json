@@ -1,0 +1,218 @@
+[
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-addressform-input-label-country",
+    "lang_value": {
+      "TH": "ประเทศ",
+      "EN": "Country"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-addressform-input-placeholder-country",
+    "lang_value": {
+      "TH": "เลือกประเทศ",
+      "EN": "Select Country"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-addressform-input-label-postalcode",
+    "lang_value": {
+      "TH": "รหัสไปรษณีย์",
+      "EN": "Postal Code"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-addressform-input-placeholder-postalcode",
+    "lang_value": {
+      "TH": "ระบุรหัสไปรษณีย์",
+      "EN": "Select/Enter Postal Code"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-addressform-input-label-province",
+    "lang_value": {
+      "TH": "จังหวัด",
+      "EN": "Province"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-addressform-input-placeholder-province",
+    "lang_value": {
+      "TH": "ระบุจังหวัด",
+      "EN": "Enter Province"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-addressform-input-label-district",
+    "lang_value": {
+      "TH": "เขต/อำเภอ",
+      "EN": "District"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-addressform-input-placeholder-district",
+    "lang_value": {
+      "TH": "ระบุเขต/อำเภอ",
+      "EN": "Enter District"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-addressform-input-label-subdistrict",
+    "lang_value": {
+      "TH": "แขวง/ตำบล",
+      "EN": "Sub-district"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-addressform-input-placeholder-subdistrict",
+    "lang_value": {
+      "TH": "ระบุแขวง/ตำบล",
+      "EN": "Enter Sub-district"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-addressform-input-label-address",
+    "lang_value": {
+      "TH": "ที่อยู่",
+      "EN": "Address"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-addressform-input-placeholder-address",
+    "lang_value": {
+      "TH": "ระบุที่อยู่",
+      "EN": "Enter Addres"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-addressform-input-label-locality",
+    "lang_value": {
+      "TH": "หมู่บ้าน/ชุมชน",
+      "EN": "Village/Community"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-addressform-input-label-street",
+    "lang_value": {
+      "TH": "ถนน",
+      "EN": "Street"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-addressform-input-placeholder-locality",
+    "lang_value": {
+      "TH": "ระบุหมู่บ้าน/ชุมชน",
+      "EN": "Enter Village/Community"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-addressform-input-placeholder-street",
+    "lang_value": {
+      "TH": "ระบุถนน",
+      "EN": "Enter Street"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-addressform-input-label-addressnumber",
+    "lang_value": {
+      "TH": "เลขที่",
+      "EN": "Address Number"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-addressform-input-placeholder-addressnumber",
+    "lang_value": {
+      "TH": "ระบุเลขที่",
+      "EN": "Enter Address Number"
+    },
+    "tags": [
+      "patona"
+    ]
+  }
+]

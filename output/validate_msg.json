@@ -1,0 +1,230 @@
+[
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-helper-text-error-minimum2",
+    "lang_value": {
+      "TH": "กรุณาระบุมากกว่า 2 ตัวอักษรขึ้นไป",
+      "EN": "Please enter more than 2 characters"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-helper-text-error-minimum4",
+    "lang_value": {
+      "TH": "กรุณาระบุมากกว่า 4 ตัวอักษรขึ้นไป",
+      "EN": "Please enter more than 4 characters"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-helper-text-error-invalidformat",
+    "lang_value": {
+      "TH": "รูปแบบไม่ถูกต้อง",
+      "EN": "Invalid format."
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-helper-text-error-invalidphone",
+    "lang_value": {
+      "TH": "กรุณาระบุเบอร์โทรให้ถูกต้อง",
+      "EN": "Please enter a valid phone number"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-helper-text-error-blankfullname",
+    "lang_value": {
+      "TH": "กรุณาระบุชื่อ–นามสกุล",
+      "EN": "Please enter your full name"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-helper-text-error-blankname",
+    "lang_value": {
+      "TH": "กรุณาระบุชื่อ",
+      "EN": "Please enter your first name"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-helper-text-error-blanklastname",
+    "lang_value": {
+      "TH": "ระบุนามสกุล",
+      "EN": "Please enter your last name"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-helper-text-error-blankphone",
+    "lang_value": {
+      "TH": "กรุณาระบุเบอร์โทร",
+      "EN": "Please enter a valid phone number"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-helper-text-error-blanktaxid",
+    "lang_value": {
+      "TH": "กรุณาระบุเลขประจำตัวผู้เสียภาษีให้ถูกต้อง",
+      "EN": "Please enter a valid tax identification"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-helper-text-error-blankcountry",
+    "lang_value": {
+      "TH": "ระบุประเทศ",
+      "EN": "Please enter a country"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-helper-text-error-blankowner",
+    "lang_value": {
+      "TH": "ระบุเจ้าของ",
+      "EN": "Please enter the owner."
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-helper-text-error-blankcountrycode",
+    "lang_value": {
+      "TH": "กรุณาระบุรหัสประเทศ",
+      "EN": "Please enter a country code"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-helper-text-error-blankstore",
+    "lang_value": {
+      "TH": "กรุณาระบุชื่อร้านค้า",
+      "EN": "Please enter the store name."
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-helper-text-error-blankaddress",
+    "lang_value": {
+      "TH": "กรุณาระบุที่อยู่",
+      "EN": "Please enter the address."
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-helper-text-error-blankprimaryphone",
+    "lang_value": {
+      "TH": "กรุณาระบุเบอร์โทรหลัก",
+      "EN": "Please enter the primary phone number."
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-helper-text-error-blankbranchcode",
+    "lang_value": {
+      "TH": "กรุณาระบุรหัสร้านหรือสาขา",
+      "EN": "Please enter the branch code"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-helper-text-error-blankcompanyname",
+    "lang_value": {
+      "TH": "กรุณาระบุชื่อบริษัท",
+      "EN": "Please enter the company name."
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-helper-text-error-selectedcountry",
+    "lang_value": {
+      "TH": "กรุณาเลือกหรือระบุประเทศ",
+      "EN": "Please select or enter the country."
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-helper-text-error-selectedpostalcode",
+    "lang_value": {
+      "TH": "กรุณาเลือกหรือระบุรหัสไปรษณีย์",
+      "EN": "Please select or enter the postal code"
+    },
+    "tags": [
+      "patona"
+    ]
+  }
+]
