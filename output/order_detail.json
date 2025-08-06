@@ -550,5 +550,17 @@
     "tags": [
       "patona"
     ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "patona-sellercenter-orderdetail-summary-shippingfee",
+    "lang_value": {
+      "TH": "ค่าจัดส่ง",
+      "EN": "Shipping Fee"
+    },
+    "tags": [
+      "patona"
+    ]
   }
 ]

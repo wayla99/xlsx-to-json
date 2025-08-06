@@ -1,0 +1,482 @@
+[
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "ccs3-mycompany-button-editcompany",
+    "lang_value": {
+      "TH": "แก้ไขบริษัท",
+      "EN": "Edit Company"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "ccs3-mycompany-title-editcompany",
+    "lang_value": {
+      "TH": "แก้ไขบริษัท",
+      "EN": "Edit Company"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "ccs3-mycompany-description-overview",
+    "lang_value": {
+      "TH": "ภาพรวมและการตั้งค่าบริษัทของคุณ",
+      "EN": "Company Overview & Settings"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "ccs3-mycompany-edit-title-updatelogo",
+    "lang_value": {
+      "TH": "อัปโหลดโลโก้บริษัท",
+      "EN": "Upload Company Logo"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "ccs3-mycompany-edit-description-recommended",
+    "lang_value": {
+      "TH": "ขนาดรูปภาพแนะนำ: ความกว้าง 300px ความสูง 300px",
+      "EN": "Recommended image size: 300px × 300px"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "ccs3-mycompany-edit-description-maxfile",
+    "lang_value": {
+      "TH": "ขนาดไฟล์ไม่เกิน: 1MB",
+      "EN": "Max file size: 1MB"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "ccs3-mycompany-edit-description-supported",
+    "lang_value": {
+      "TH": "รองรับไฟล์: JPG, PNG",
+      "EN": "Supported formats: JPG, PNG"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "ccs3-mycompany-title-companyname",
+    "lang_value": {
+      "TH": "ชื่อบริษัท",
+      "EN": "Company Name"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "ccs3-mycompany-edit-label-address-country",
+    "lang_value": {
+      "TH": "ประเทศ",
+      "EN": "Country"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "ccs3-mycompany-edit-label-address-postalcode",
+    "lang_value": {
+      "TH": "รหัสไปรษณีย์",
+      "EN": "Postal Code"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "ccs3-mycompany-edit-button-cancel",
+    "lang_value": {
+      "TH": "ยกเลิก",
+      "EN": "Cancel"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "ccs3-mycompany-edit-button-save",
+    "lang_value": {
+      "TH": "บันทึก",
+      "EN": "Save"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "ccs3-mycompany-placeholder-companyname",
+    "lang_value": {
+      "TH": "ระบุชื่อบริษัท",
+      "EN": "Enter Company Name"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "ccs3-mycompany-placeholder-taxidentification",
+    "lang_value": {
+      "TH": "ระบุเลขประจำตัวผู้เสียภาษี",
+      "EN": "Enter Tax ID"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "ccs3-mycompany-placeholder-email",
+    "lang_value": {
+      "TH": "ระบุอีเมลบริษัท",
+      "EN": "Enter Company Email"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "ccs3-mycompany-placeholder-primaryphone",
+    "lang_value": {
+      "TH": "ระบุเบอร์โทรศํพท์",
+      "EN": "Enter Primary Phone Number"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "ccs3-mycompany-placeholder-secondaryphone",
+    "lang_value": {
+      "TH": "ระบุเบอร์โทรสำรอง",
+      "EN": "Enter Secondary Phone Number"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "ccs3-mycompany-placeholder-address-postalcode",
+    "lang_value": {
+      "TH": "ระบุรหัสไปรษณีย์",
+      "EN": "Enter Postal Code"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "ccs3-mycompany-placeholder-address",
+    "lang_value": {
+      "TH": "ระบุที่อยู่",
+      "EN": "Enter Addres"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "ccs3-mycompany-edit-modal-title-image",
+    "lang_value": {
+      "TH": "อัปโหลดหรือแก้ไขรูปภาพ",
+      "EN": "Upload or Edit Image"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "ccs3-mycompany-edit-modal-button-cancel",
+    "lang_value": {
+      "TH": "ยกเลิก",
+      "EN": "Cancel"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "ccs3-mycompany-edit-modal-title-unsaved",
+    "lang_value": {
+      "TH": "คุณยังไม่ได้บันทึกข้อมูล",
+      "EN": "You haven’t saved your data yet"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "ccs3-mycompany-edit-modal-button-save",
+    "lang_value": {
+      "TH": "บันทึก",
+      "EN": "Save"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "ccs3-mycompany-edit-toast-update-successfully",
+    "lang_value": {
+      "TH": "บันทึกข้อมูลสำเร็จ ระบบได้ทำการบันทึกข้อมูลของคุณสำเร็จแล้ว",
+      "EN": "Saved successfully. Your data has been successfully saved."
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "ccs3-mycompany-edit-toast-update-error",
+    "lang_value": {
+      "TH": "เกิดข้อผิดพลาด กรุณารีเฟรชหรือลองใหม่อีกครั้ง",
+      "EN": "An error occurred. Please refresh or try again."
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "ccs3-mycompany-edit-modal-title-unsaved-warning",
+    "lang_value": {
+      "TH": "คุณไม่ได้ทำการบันทึกข้อมูล",
+      "EN": "You have not saved the data"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "ccs3-mycompany-edit-modal-title-unsaved-confirm",
+    "lang_value": {
+      "TH": "ต้องการออกจากหน้านี้หรือไม่?",
+      "EN": "Do you want to leave this page?"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "ccs3-mycompany-edit-modal-button-exit",
+    "lang_value": {
+      "TH": "ออก",
+      "EN": "Leave"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "ccs3-mycompany-edit-input-companyname",
+    "lang_value": {
+      "TH": "กรุณาระบุชื่อบริษัท",
+      "EN": "Please enter the company name"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "ccs3-mycompany-edit-input-error-mincharacters",
+    "lang_value": {
+      "TH": "กรุณาระบุมากกว่า 2 ตัวอักษรขึ้นไป",
+      "EN": "Please enter more than 2 characters"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "ccs3-mycompany-edit-input-error-invalidformat",
+    "lang_value": {
+      "TH": "รูปแบบไม่ถูกต้อง",
+      "EN": "Invalid format"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "ccs3-mycompany-edit-input-error-phone",
+    "lang_value": {
+      "TH": "กรุณาระบุเบอร์โทรให้ถูกต้อง",
+      "EN": "Please enter a valid phone number."
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "ccs3-mycompany-edit-input-phone",
+    "lang_value": {
+      "TH": "กรุณาระบุเบอร์โทรหลัก",
+      "EN": "Please enter the primary phone number."
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "ccs3-mycompany-edit-input-postalcode",
+    "lang_value": {
+      "TH": "กรุณาเลือกหรือระบุรหัสไปรษณีย์",
+      "EN": "Please select or enter the postal code"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "ccs3-mycompany-edit-input-address",
+    "lang_value": {
+      "TH": "กรุณาระบุที่อยู่",
+      "EN": "Please enter the address."
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "ccs3-mycompany-edit-toast-image-deleted",
+    "lang_value": {
+      "TH": "ลบรูปสำเร็จ",
+      "EN": "Image deleted successfully"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "sellsuki-topbar-option-settings",
+    "lang_value": {
+      "TH": "ตั้งค่า",
+      "EN": "Settings"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "sellsuki-topbar-option-language",
+    "lang_value": {
+      "TH": "ภาษา",
+      "EN": "Language"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "ccs3-mycompany-edit-label-address",
+    "lang_value": {
+      "TH": "ที่อยู่",
+      "EN": "Address"
+    },
+    "tags": [
+      "patona"
+    ]
+  },
+  {
+    "default_lang": "EN",
+    "description": "",
+    "keyword": "ccs3-mycompany-placeholder",
+    "lang_value": {
+      "TH": "ระบุ",
+      "EN": "Enter"
+    },
+    "tags": [
+      "patona"
+    ]
+  }
+]
